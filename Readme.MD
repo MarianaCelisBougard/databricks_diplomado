@@ -1,3 +1,5 @@
+## actividades realizadas en clase, iniciales.
+
 # Análisis de Contratación Pública y Educación en Colombia
 
 Este proyecto tiene como objetivo analizar la eficiencia, cobertura y equidad de la contratación pública en Colombia mediante el cruce de datos del **SECOP II** y del **Ministerio de Educación Nacional (MEN)**. Utiliza herramientas de análisis de datos en Python para generar visualizaciones y métricas clave, enfocadas en la comparación territorial y temporal.
