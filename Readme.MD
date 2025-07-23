@@ -1,4 +1,4 @@
-## actividades realizadas en clase, iniciales.
+## actividades realizadas en clase, iniciales. **(No hace parte de la entrega final)**
 
 # Análisis de Contratación Pública y Educación en Colombia
 
